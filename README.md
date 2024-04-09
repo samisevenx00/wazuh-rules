@@ -1,0 +1,1 @@
+Regles supplémentaires pour wazuh
